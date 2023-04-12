@@ -1,0 +1,17 @@
+C:\Users\ANDREY\Desktop\C#\prakt15alg\bin\Debug\net6.0-windows\prakt15alg.exe
+C:\Users\ANDREY\Desktop\C#\prakt15alg\bin\Debug\net6.0-windows\prakt15alg.deps.json
+C:\Users\ANDREY\Desktop\C#\prakt15alg\bin\Debug\net6.0-windows\prakt15alg.runtimeconfig.json
+C:\Users\ANDREY\Desktop\C#\prakt15alg\bin\Debug\net6.0-windows\prakt15alg.dll
+C:\Users\ANDREY\Desktop\C#\prakt15alg\bin\Debug\net6.0-windows\prakt15alg.pdb
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.Form1.resources
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.csproj.GenerateResource.cache
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.dll
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\refint\prakt15alg.dll
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.pdb
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\prakt15alg.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\C#\prakt15alg\obj\Debug\net6.0-windows\ref\prakt15alg.dll
